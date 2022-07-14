@@ -7,7 +7,6 @@
  * pint - print the value at the top of the stack
  * @stack: stack given by main in start.c
  * @line_cnt: amount of lines
- * Authors: Martins Akhivbareme & Bolatito Alaba
  *
  * Return: void
  */

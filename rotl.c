@@ -4,7 +4,6 @@
  * rotl - rotates the first element of the stack
  * @stack: stack head
  * @line_count: line count
- * Authors: Martins Akhivbareme & Bolatito Alaba
  *
  * Return: void
  */

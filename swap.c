@@ -7,7 +7,6 @@
  * swap -  swaps data from top to previous
  * @stack: stack given by main
  * @line_cnt: amount of lines
- * Authors: Martins Akhivbareme & Bolatito Alaba
  *
  * Return: void
  */

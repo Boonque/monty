@@ -7,11 +7,11 @@
 void file_error(char *argv);
 void error_usage(void);
 int status = 0; /* global var declaration */
+
 /**
  * main - entry point
  * @argv: list of arguments passed to our program
  * @argc: amount of args
- * Authors: Martins Akhivbareme & Bolatito Alaba
  *
  * Return: nothing
  */

@@ -6,7 +6,6 @@
  * pstr - prints the contents of a stack_t stack as a string
  * @stack: stack given by main
  * @line_cnt: line counter for error messages
- * Authors: Martins Akhivbareme & Bolatito Alaba
  *
  * Return: nothing
  */

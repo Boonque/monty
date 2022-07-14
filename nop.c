@@ -4,7 +4,6 @@
  * nop -  does nothing
  * @stack: doesnt matter
  * @line_cnt : for nothing
- * Authors: Martins Akhivbareme & Bolatito Alaba
  *
  * Return: NOTHING
  */
